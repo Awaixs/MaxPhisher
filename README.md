@@ -202,4 +202,4 @@ If not found, php, ssh and python modoules will be installed on first run
 
 - [![Messenger](https://img.shields.io/badge/Messenger-KasRoudra-green?style=for-the-badge&logo=messenger)](https://m.me/KasRoudra)
 
-- [![Telegram](https://img.shields.io/badge/Telegram-KasRoudra-indigo?style=for-the-badge&logo=telegram)](https://t.me/KasRoudra)# MaxPhisher
+- [![Telegram](https://img.shields.io/badge/Telegram-KasRoudra-indigo?style=for-the-badge&logo=telegram)](https://t.me/KasRoudra)
